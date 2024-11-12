@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Phyu
-- 👀 I’m interested in Back End Development
-- 🌱 I’m currently learning React and Cloud Computing
+- 👋 Hi, I’m Phyu Phyu
+- 👀 I’m interested in Data & Analytics
+- 🌱 I’m currently learning IBM Data Analyst course and Big data
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me toe.phyuphyu@gmail.com
 - ⚡ Fun fact: 😄
