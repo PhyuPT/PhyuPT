@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Phyu Phyu
 - 👀 7+ Years in Software Development & Dynamics CRM Solutions | Driving Data-Driven Insights for Business Success
-- 🌱 I’m currently learning IBM Data Analyst course and Big data
-- 🌱 Skilled in SQL, Python, Data Visualization and Cloud
+- 🌱 I’m currently learning IBM Data Analyst course, Big data and Cloud 
+- 🌱 Skilled in SQL, Python, Data Visualization and Azure Cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me toe.phyuphyu@gmail.com
 - ⚡ Fun fact: 😄
